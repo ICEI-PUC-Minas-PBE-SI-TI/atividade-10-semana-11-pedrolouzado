@@ -1,20 +1,33 @@
 # Trabalho Prático - Semana 11
 
-Nesta atividade, vamos dar continuidade ao projeto desenvolvido ao longo deste semestre, acrescentando a página de detalhes da aplicação.
+# Terras Capixabas
 
-Imagine que a página principal (home-page) mostre uma visão dos vários itens que existem no seu site. Ao clicar em um item, você é direcionado para a página de detalhes. A página de detalhes vai mostrar todas as informações sobre o item do seu projeto, seja esse item uma notícia, filme, receita, lugar turístico ou evento.
+## Autor
 
-## Informações Gerais
+- Nome: Pedro Marcos
+- Curso: Sistemas de Informação
+- Turma: Noite
 
-- Nome:
-- Matrícula:
-- Descreva brevemente seu projeto:
+## Descrição
+
+Projeto desenvolvido para apresentar destinos turísticos do Espírito Santo.
+
+## Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- JSON
 
 ## Prints do trabalho
 
-<<  COLOQUE A IMAGEM - HOME-PAGE - AQUI >>
 
-<<  COLOQUE A IMAGEM - TELA DE DETALHES - AQUI >>
+
+
+
+<img width="1587" height="773" alt="Detalhes" src="https://github.com/user-attachments/assets/9453750e-9030-486c-bdbc-f84e61513430" />
+<img width="1586" height="773" alt="home-page" src="https://github.com/user-attachments/assets/9617027f-5847-4e13-a4db-9b0bb731717b" />
 
 ## Dados em JSON
 Inclua abaixo a estrutura de dados definida para o seu projeto, apresentando pelo menos dois exemplos de registros em formato JSON.
