@@ -37,6 +37,7 @@ Projeto desenvolvido para apresentar destinos turísticos do Espírito Santo.
 Inclua abaixo a estrutura de dados definida para o seu projeto, apresentando pelo menos dois exemplos de registros em formato JSON.
 
 ```json
+Destinos:[
  {
             id: 1,
 
@@ -101,6 +102,7 @@ Inclua abaixo a estrutura de dados definida para o seu projeto, apresentando pel
               
             ]
         },
+]
 ```
 
 
