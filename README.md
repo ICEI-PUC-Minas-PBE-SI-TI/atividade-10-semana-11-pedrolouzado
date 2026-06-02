@@ -37,70 +37,29 @@ Projeto desenvolvido para apresentar destinos turísticos do Espírito Santo.
 Inclua abaixo a estrutura de dados definida para o seu projeto, apresentando pelo menos dois exemplos de registros em formato JSON.
 
 ```json
-Destinos:[
- {
-            id: 1,
 
-            nome: "Pancas",
-            descricao: "Cidade capixaba famosa pelas montanhas e pelo turismo de aventura.",
-            conteudo: "Pancas, no noroeste do Espírito Santo, é conhecida pelas enormes formações rochosas e pelas paisagens naturais impressionantes. A região é muito procurada para prática de escalada, trilhas e ecoturismo.",
-            categoria: "Ecoturismo",
-            destaque: true,
-            imagem_principal: "assets/img/pancas3.jpg",
-            fotos: [
-
-                {
-                    titulo: "Pedras gigantes de Pancas",
-
-                    imagem: "assets/img/pancas2.jpeg"
-                },
-
-                {
-                    titulo: "Capadócia capixaba",
-
-                    imagem: "assets/img/pancas.jpg"
-                },
-
-                {
-                    titulo: "Balões de Pancas",
-
-                    imagem: "assets/img/pancas1.jpg"
-                }
-
-            ]
-        },
-
-
-        {
-            id: 2,
-            nome: "Pedra Azul",
-            descricao: "Paisagens montanhosas incríveis.",
-            conteudo: "Pedra Azul encanta turistas com clima agradável.",
-            categoria: "Serras",
-            destaque: true,
-            imagem_principal: "assets/img/pedraazul.jpg",
-
-            fotos: [
-
-                 {
-                    titulo: "Parque Estadual",
-                    imagem: "assets/img/parque.jpg"
-                },
-
-                {
-                    titulo: "Trilha das piscinas naturais",
-                    imagem: "assets/img/trilha.jpg"
-                },
-
-                
-                {
-                    titulo: "Lago do parque Pedra Azul",
-                    imagem: "assets/img/pedraazul1.jpg"
-                },
-
-                
-              
-            ]
+{
+  "destinos": [
+    {
+      "id": 1,
+      "nome": "Pancas",
+      "descricao": "Cidade capixaba famosa pelas montanhas e pelo turismo de aventura.",
+      "conteudo": "Pancas, no noroeste do Espírito Santo, é conhecida pelas enormes formações rochosas e pelas paisagens naturais impressionantes.",
+      "categoria": "Ecoturismo",
+      "destaque": true,
+      "imagem_principal": "assets/img/pancas3.jpg"
+    },
+    {
+      "id": 2,
+      "nome": "Pedra Azul",
+      "descricao": "Paisagens montanhosas incríveis.",
+      "conteudo": "Pedra Azul encanta turistas com clima agradável.",
+      "categoria": "Serras",
+      "destaque": true,
+      "imagem_principal": "assets/img/pedraazul.jpg"
+    }
+  ]
+}
 
 ```
 
